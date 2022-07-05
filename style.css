@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+.top{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25%;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+p{
+    color: white;
+}
+.link-button{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+}
