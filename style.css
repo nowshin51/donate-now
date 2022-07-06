@@ -26,6 +26,7 @@ section{
     background-image: linear-gradient(orange, tomato);
     text-decoration: none;
     color: white;
+    display: inline-block;
    
 }
 .middle-section{
@@ -50,8 +51,10 @@ section{
     display: inline;
     margin-left: 5%;
     color:cadetblue;
+    
 }
 #other{
+    padding-top: 40px;
     text-align: center;
     color:cadetblue;
 }
@@ -64,6 +67,7 @@ footer{
 #footer-top{
     color: orangered;
     font-style: italic;
+    font-weight: 700;
 }
 #footer-para{
     color: white;
