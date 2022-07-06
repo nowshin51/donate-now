@@ -18,7 +18,7 @@ body{
     color: white;
 }
 section{
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 .link-button{
     border-radius: 5px;
@@ -36,6 +36,7 @@ section{
 }
 .middle-header{
     font-size: 40px;
+    font-weight: 700;
 
 }
 .middle-paragraph{
@@ -45,19 +46,65 @@ section{
 .amount{
     width: 50px;
     height: 50px;
-    padding: 15px;
+    padding: 30px 25px;
     background-color: whitesmoke;
-    box-shadow: 10px 10px whitesmoke;
+    border-radius: 5px;
     display: inline;
     margin-left: 5%;
     color:cadetblue;
     
+}
+.amount1{
+    width: 50px;
+    height: 50px;
+    padding: 30px 25px;
+    color: tomato ;
+    background-color: rgb(252, 150, 150);
+    border-radius: 5px;
+    display: inline;
+    margin-left: 5%;
+    border: 3px solid tomato;
 }
 #other{
     padding-top: 40px;
     text-align: center;
     color:cadetblue;
 }
+.Form-section{
+    text-align: center; 
+}
+
+.Form-section form{
+     width: 40%;  
+     padding: 60px 60px; 
+     background-color: lightgoldenrodyellow ;
+     border: 1px solid lightgoldenrodyellow;
+    display: inline-block;
+     
+
+}
+.row{
+    float: left;
+    margin-left: 30px;
+    padding: 10px 10px;
+    background-color: wheat;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    width: 40%;
+    color: cadetblue;
+
+}
+.row1{
+    float: left;
+    padding: 10px 10px;
+    background-color:tomato;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    width: 40%;
+    color: white;
+}
+
+
 footer{
     background-color: black;
     text-align: center;
@@ -65,6 +112,7 @@ footer{
     height: 150px;
 }
 #footer-top{
+    padding-top: 40px;
     color: orangered;
     font-style: italic;
     font-weight: 700;
