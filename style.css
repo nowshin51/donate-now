@@ -71,10 +71,38 @@ section{
     text-align: center;
     color:cadetblue;
 }
-.donate-plan{
+.our-donate-plan{
     text-align: center;
-
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 30px;
 }
+.width{
+    display:flex;
+    margin: 50px;
+    text-align: left;
+}
+.food{
+    border-radius: 10px;
+    margin-left: 10%;
+    background-color:aquamarine;
+    padding: 3%;
+}
+.family{
+    border-radius: 10px;
+    margin-left: 2%;
+    background-color: lightpink;
+    padding: 3%;
+}
+.education{
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color:lightgreen;
+    padding: 3%;
+}
+
 .paragraph{
     text-align: center;
     color:cadetblue;
