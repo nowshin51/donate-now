@@ -41,6 +41,7 @@ section{
 }
 .middle-paragraph{
     color:cadetblue;
+    text-align: center;
 }
 
 .amount{
@@ -70,18 +71,76 @@ section{
     text-align: center;
     color:cadetblue;
 }
+.donate-plan{
+    text-align: center;
+
+}
+.paragraph{
+    text-align: center;
+    color:cadetblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.connect{
+    text-align: center;    
+   
+}
+.connect form{
+    width: 40%;  
+    padding: 30px 80px; 
+    background-color:lightgreen ;
+    border: 1px solid olivedrab;
+   display: inline-block;
+   border-radius: 5px;
+}    
 .Form-section{
     text-align: center; 
 }
 
 .Form-section form{
-     width: 40%;  
+    
+    width: 40%;  
      padding: 60px 60px; 
      background-color: lightgoldenrodyellow ;
      border: 1px solid lightgoldenrodyellow;
     display: inline-block;
      
 
+}
+.fb{
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    background-color:skyblue;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    width: 40%;
+}
+.tw{
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    background-color: rgb(104, 104, 245);
+    border: 1px solid wheat;
+    border-radius: 5px;
+    width: 40%; 
+}
+.gl{
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    background-color:salmon;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    width: 40%;
+}
+.sub{
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    background-color:slateblue;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    width: 40%;
+}
+.sub:hover{
+    opacity: 1;
 }
 .row{
     float: left;
